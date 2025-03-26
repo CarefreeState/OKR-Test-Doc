@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Mono";
+    src: url("../fonts/JetBrainsMono-Medium.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: "Mono", sans-serif;
+}
